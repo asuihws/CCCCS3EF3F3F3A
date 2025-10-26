@@ -37,7 +37,7 @@ http://b.tvbox6.icu/tv/ysp.php?id=18
 http://b.tvbox6.icu/tv/ysp.php?id=21
 #EXTINF:-1 tvg-name="CCTV风云剧场" tvg-id="219" tvg-logo="https://tb.zbds.top/logo/CCTV第一剧场.png" group-title="央视频道", CCTV风云剧场
 http://b.tvbox6.icu/tv/ysp.php?id=22
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-id="219" tvg-logo="https://tb.zbds.top/logo/CHC电影.png" group-title="央视频道", 24小时高分电影
+#EXTINF:-1 tvg-name="24小时高分电影" tvg-id="219" tvg-logo="https://tb.zbds.top/logo/CHC电影.png" group-title="央视频道", 24小时高分电影
 https://stream1.freetv.fun/24hgao-fen-dian-ying-1.ctv
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-id="219" tvg-logo="https://tb.zbds.top/logo/CHC电影.png" group-title="央视频道", CNC影迷电影
+#EXTINF:-1 tvg-name="CNC影迷电影" tvg-id="219" tvg-logo="https://tb.zbds.top/logo/CHC电影.png" group-title="央视频道", CNC影迷电影
 https://stream1.freetv.fun/d940fc0ec92b037bf0518b75eab8fbba1d7adef2175287fcc87c0e48d2affb48.m3u8
