@@ -1,33 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="256" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="201" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
 https://stream1.freetv.fun/cctv-1-25.ctv
-#EXTINF:-1 tvg-name="CCTV2" tvg-id="235" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视频道", CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-id="202" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视频道", CCTV2
 https://stream1.freetv.fun/cctv-2-13.ctv
-#EXTINF:-1 tvg-name="CCTV3" tvg-id="214" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="央视频道", CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-id="203" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="央视频道", CCTV3
 https://stream1.freetv.fun/1847276d6bc5debba388a2d32acc6ac34427b06d901dedb2d9678954b03ad752.ctv
-#EXTINF:-1 tvg-name="CCTV4" tvg-id="240" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道", CCTV4
+#EXTINF:-1 tvg-name="CCTV4" tvg-id="204" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道", CCTV4
 https://stream1.freetv.fun/cctv-4zhong-wen-guo-ji-2.ctv
-#EXTINF:-1 tvg-name="CCTV5" tvg-id="253" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="央视频道", CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-id="205" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="央视频道", CCTV5
 https://stream1.freetv.fun/cctv-5-23.ctv
-#EXTINF:-1 tvg-name="CCTV5+" tvg-id="115" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道", CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-id="206" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道", CCTV5+
 http://b.tvbox6.icu/tv/ysp.php?id=6
-#EXTINF:-1 tvg-name="CCTV6" tvg-id="215" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="央视频道", CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-id="207" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="央视频道", CCTV6
 http://b.tvbox6.icu/tv/ysp.php?id=7
-#EXTINF:-1 tvg-name="CCTV7" tvg-id="220" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视频道", CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="208" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视频道", CCTV7
 http://b.tvbox6.icu/tv/ysp.php?id=8
-#EXTINF:-1 tvg-name="CCTV8" tvg-id="206" tvg-logo="https://tb.zbds.top/logo/CCTV8.png" group-title="央视频道", CCTV8
+#EXTINF:-1 tvg-name="CCTV8" tvg-id="209" tvg-logo="https://tb.zbds.top/logo/CCTV8.png" group-title="央视频道", CCTV8
 https://stream1.freetv.fun/ef7af61111293e5b94303661addc0847ef440ad366c120ca6ecb94e1bf6ab293.ctv
-#EXTINF:-1 tvg-name="CCTV9" tvg-id="218" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视频道", CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="210" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视频道", CCTV9
 http://b.tvbox6.icu/tv/ysp.php?id=10
-#EXTINF:-1 tvg-name="CCTV10" tvg-id="221" tvg-logo="https://tb.zbds.top/logo/CCTV10.png" group-title="央视频道", CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-id="211" tvg-logo="https://tb.zbds.top/logo/CCTV10.png" group-title="央视频道", CCTV10
 http://b.tvbox6.icu/tv/ysp.php?id=11
-#EXTINF:-1 tvg-name="CCTV11" tvg-id="202" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视频道", CCTV11
+#EXTINF:-1 tvg-name="CCTV11" tvg-id="212" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视频道", CCTV11
 http://b.tvbox6.icu/tv/ysp.php?id=12
-#EXTINF:-1 tvg-name="CCTV12" tvg-id="215" tvg-logo="https://tb.zbds.top/logo/CCTV12.png" group-title="央视频道", CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-id="213" tvg-logo="https://tb.zbds.top/logo/CCTV12.png" group-title="央视频道", CCTV12
 http://b.tvbox6.icu/tv/ysp.php?id=13
-#EXTINF:-1 tvg-name="CCTV13" tvg-id="203" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" group-title="央视频道", CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-id="214" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" group-title="央视频道", CCTV13
 http://b.tvbox6.icu/tv/ysp.php?id=14
-#EXTINF:-1 tvg-name="CCTV14" tvg-id="218" tvg-logo="https://tb.zbds.top/logo/CCTV14.png" group-title="央视频道", CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-id="215" tvg-logo="https://tb.zbds.top/logo/CCTV14.png" group-title="央视频道", CCTV14
 http://b.tvbox6.icu/tv/ysp.php?id=15
-#EXTINF:-1 tvg-name="CCTV15" tvg-id="209" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="央视频道", CCTV15
+#EXTINF:-1 tvg-name="CCTV15" tvg-id="216" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="央视频道", CCTV15
 http://b.tvbox6.icu/tv/ysp.php?id=16
+#EXTINF:-1 tvg-name="CCTV17" tvg-id="217" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="央视频道", CCTV17
+http://b.tvbox6.icu/tv/ysp.php?id=18
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-id="218" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="央视频道", CCTV第一剧场
+http://b.tvbox6.icu/tv/ysp.php?id=21
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-id="219" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="央视频道", CCTV风云剧场
+http://b.tvbox6.icu/tv/ysp.php?id=22
